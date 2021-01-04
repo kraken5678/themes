@@ -34,7 +34,7 @@
 :root {
 	--theme-name: "Black Hole";
   --theme-version: "1.5";
-  --blurple: rgb(113, 136, 217);
+  --blurple: rgb(176, 14, 14);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
